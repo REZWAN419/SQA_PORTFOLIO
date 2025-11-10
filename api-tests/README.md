@@ -1,4 +1,4 @@
-This repository includes a Postman collection for the my postman project.
+This repository includes a Postman collection from my postman project.
 
 To import it into Postman:
 1. Download [simpleBookApi.postman_collection.json]
