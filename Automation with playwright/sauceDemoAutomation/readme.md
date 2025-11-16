@@ -1,1 +1,1 @@
-this folder contain automation sscript for playwright
+this folder contain automated test script for saucedemov website
